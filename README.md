@@ -74,7 +74,7 @@ Sign Up
 
 ![image](https://github.com/user-attachments/assets/07e5cc6f-7117-40da-8db2-949873e0b859)
 
-### 📝 Author
+### 📝 Profile
 
 • Name - Zaur Kharati
 
