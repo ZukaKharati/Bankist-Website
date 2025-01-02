@@ -46,7 +46,7 @@ This project showcases modern JavaScript-based interactive features designed for
 
 ### The link created by the github, to test the project live version.
 
-https://zukakharati.github.io/Bankist-Website/
+https://zukakharati.github.io/Project-5-Bankist-Website/
 
 ### 📷 Screenshots
 
